@@ -27,12 +27,8 @@ This lab demonstrates a basic setup of an Express.js application with three Java
 - `http://localhost:3000/studies` - Displays JSON contents.
 - CRUD operations are demonstrated in `index3.js`.
 
-## Testing with Postman
-- Install Postman from [here](https://www.postman.com/downloads/).
-- Use Postman to send requests to the CRUD endpoints specified in `index3.js` for testing CRUD operations.
 
 ## Author
-[Your Name]
+Evrim Ciftci
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
